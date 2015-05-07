@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anil/Desktop/final/client/client.cpp
+netinet/in.h
+-
+iostream
+-
+string
+-
+cstring
+-
+cerrno
+-
+sstream
+-
+netinet/sctp.h
+-
+unistd.h
+-
+netdb.h
+-
+
